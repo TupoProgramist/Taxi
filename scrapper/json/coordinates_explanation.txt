@@ -1,0 +1,16 @@
+old | new | sence
+clean_cor1 | exit_list | exit the list of reccomended chanels
+clean_cor2 | clean_find_input | clean the find channels inputers
+find_cor | find_input | the find channels input
+channel_cor | first_channel | the coords of first reccomended channel
+sub_cor | subscribe | the coords of subscribe chanel button
+show_cor | show_more | the coords of "show more channels" button
+
+- THE SCRAPPING -
+first_cor | first_recommended | the coords of first recommended channel
+next_dis | next_dis | the dislocation to the next reccomended channel
+scroll_dis | scroll_dis | the scroll to get to the next reccomendet channel
+
+- The deleting -
+leave_cor1 | leave_channel | the button to leave the channel
+leave_cor2 | leave_channel_confirmation | the confirmation of leaving the channel

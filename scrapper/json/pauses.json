@@ -1,0 +1,10 @@
+{
+    "find_channel": 1.8,
+    "click": 0.11,
+    "load_channel": 2,
+    "subscribe": 1.5,
+    "show_more": 0.8,
+    "copy": 0.05,
+    "close_recommendation": 0.25,
+    "clean_find": 0.3
+}

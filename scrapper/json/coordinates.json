@@ -1,0 +1,20 @@
+{
+    "exit_list": [646,90],
+    "clean_find_input": [233,51],
+    "find_input": [108,55],
+    "first_channel": [67,130],
+    "subscribe": [605,1017],
+    "show_more": [782,872],
+
+    "first_recommended": [340,74],
+    "next_dis": [0, 58],
+    "header": [506,51],
+    "title": [405,159],
+    "close_description": [645,91],
+    "close_recommendation": [287,49],
+
+    "leave_channel": [318,314],
+    "leave_channel_confirmation": [594,597],
+    
+    "scroll_dis": 116
+}
